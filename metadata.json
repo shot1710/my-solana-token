@@ -2,5 +2,7 @@
     "name": "Jobless",
     "symbol": "JOBL",
     "description": "A token for unemployed people who are looking for money",
-    "image": "https://i.imgflip.com/2mjjsw.jpg"
+    "image": "https://shot1710.github.io/my-solana-token/jobless.jpg",
+    "properties": {"files": [{"uri": "jobless.jpg", "type": "image/jpg"}]},
+    "decimals": 9
 }
